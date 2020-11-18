@@ -56,9 +56,9 @@ String s = "";
  **五.实验结果
  
  A文件保存后的内容
- ![1](https://github.com/buruopeng/-191-4/blob/main/ee724d136d503903caf4e514889f110.png"")
+ ![1](https://github.com/buruopeng/-191-4/blob/main/ee724d136d503903caf4e514889f110.png "")
  实验结果
- ![2](https://github.com/buruopeng/-191-4/blob/main/faf3f5b09c6ce9ba1d6a753a6d37661.png"")
+ ![2](https://github.com/buruopeng/-191-4/blob/main/faf3f5b09c6ce9ba1d6a753a6d37661.png "")
 
 **六.实验感悟
 
