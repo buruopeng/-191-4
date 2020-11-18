@@ -56,9 +56,10 @@ String s = "";
  **五.实验结果
  
  A文件保存后的内容
- ![](https://github.com/buruopeng/-191-4/blob/main/ee724d136d503903caf4e514889f110.png"")
+ ![1](https://github.com/buruopeng/-191-4/blob/main/ee724d136d503903caf4e514889f110.png"")
  实验结果
- ![](https://github.com/buruopeng/-191-4/blob/main/faf3f5b09c6ce9ba1d6a753a6d37661.png"")
+ ![2](https://github.com/buruopeng/-191-4/blob/main/faf3f5b09c6ce9ba1d6a753a6d37661.png"")
+
 **六.实验感悟
 
 通过本次实验，牢固掌握了和用户交互的使用方法以及异常处理的结构，能更快的调试代码，写程序也有了更多中思路和方法，也巩固了之前实验的内容，了解了文件的读写，知道Scanner的next和nextInt方法的区别，是输入字符串和整形，复习了toString的用法，返回字符串对象，学会建立BufferedReader新的对象读取文件，建立PrintWriter新的对象写入文件，用indexOf方法查找字符串中指定字符串，对编程有了更多想法，有强烈的兴趣学习更多语法来简化代码，实现更多强大功能。
