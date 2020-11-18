@@ -26,5 +26,34 @@
 
 **四.核心代码
 
+这部分代码把读取的字符串转换为数组，利用循环，给诗歌加上标点，更为美观。
+```
+String s = "";
+        char[] chars = txt2String(file).toCharArray();
+        for (int i = 2; i < 240; i++) {
+            s += chars[i];
+            if ((i - 1) % 7 == 0 && (i - 1) % 2 == 0) {
+                s += "。" + "\n";
+            } else if ((i - 1) % 7 == 0 && (i - 1) % 2 != 0) {
+                s += ",";
+            }
+        }
+ ```
+  这部分代码通过查找指定字或词，实现查找字或词出现次数的功能      
+        
+ ```
+        while ((index = s.indexOf(g, index)) != -1) {
+
+
+                        index = index + g.length();
+                        count++;
+
+                    }
+
+
+                    System.out.println(g + "出现的次数：" + count);
+ ```
+ **五.实验结果
+ 
 
 
